@@ -18,7 +18,7 @@
     "boilerplate"
   ],
   "author": "Shu Zhou",
-  "license": "MIT",
+  "license": "FreeCodeCamp",
   "dependencies": {
     "express": "^4.13.3"
   }
